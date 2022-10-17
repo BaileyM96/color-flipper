@@ -1,0 +1,15 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.nav-center {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-elements {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
